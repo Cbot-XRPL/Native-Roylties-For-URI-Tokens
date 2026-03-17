@@ -1,7 +1,7 @@
 # Native Transfer Fees for URITokens
 
-**Author:** Cbot Labs LLC
-**Created:** 2026-03-15  
+**Author:** Cbot Labs LLC 
+ **Created:** 2026-03-15  
 **Status:** Proposal  
 **Category:** Amendment  
 
