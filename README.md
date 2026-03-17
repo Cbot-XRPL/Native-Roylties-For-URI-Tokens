@@ -2,8 +2,11 @@
 
 
 **Author:** Cbot Labs LLC 
+
 **Status:** Proposal  
+
 **Category:** Amendment 
+
 **Created:** 2026-03-15  
 
 ## Abstract
